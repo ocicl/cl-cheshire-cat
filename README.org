@@ -1,0 +1,10 @@
+* cl-cheshire-cat
+
+HTTP Redirection server
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mentel/cl-cheshire-cat.git   |
+| commit  | ac494f5  |
+| systems | cl-cheshire-cat |
+|---------+-------------------------------------------|
+
